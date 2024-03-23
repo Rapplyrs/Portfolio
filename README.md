@@ -1,6 +1,4 @@
-# Project Title: 
-
-# Portfolio 
+# Project Title: Portfolio
 
 # Project Description: 
 
